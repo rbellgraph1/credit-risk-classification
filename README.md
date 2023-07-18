@@ -15,23 +15,3 @@
 * Risk loans depending on the size, have a huge cost and time involved for the bank and require a much higher degree of precision. 
 
 ![Alt Text](https://github.com/rbellgraph1/credit-risk-classification/blob/main/2023-07-17_21-11-17.png)
-Machine Learning Model 1:
-       
-                 precision    recall  f1-score   support
-Healthy     0       1.00      0.99      1.00     18765
-High Risk   1       0.85      0.91      0.88       619
-
-    accuracy                           0.99     19384
-   macro avg       0.92      0.95      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
-
-
-Machine Learning Model 2:
-
-                precision    recall  f1-score   support
-Healthy    0       1.00      0.99      1.00     18765
-High Risk  1       0.84      0.99      0.91       619
-
-    accuracy                           0.99     19384
-   macro avg       0.92      0.99      0.95     19384
-weighted avg       0.99      0.99      0.99     19384
