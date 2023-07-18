@@ -14,7 +14,7 @@
 * I personally would like to see a higher precisiion of greater than 90 before we considering the model sufficient to predict riskier loans. 
 * Risk loans depending on the size, have a huge cost and time involved for the bank and require a much higher degree of precision. 
 
-image.png
+![Alt Text](https://github.com/rbellgraph1/credit-risk-classification/blob/main/2023-07-17_21-11-17.png)
 Machine Learning Model 1:
        
                  precision    recall  f1-score   support
